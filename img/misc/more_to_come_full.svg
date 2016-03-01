@@ -1,0 +1,9 @@
+<svg width="960" height="800" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#26292E" stroke="#26292E" stroke-width="0" x="0" y="0" width="960" height="800" id="svg_3"/>
+  <text fill="#DE5E60" stroke="#DE5E60" stroke-width="0" x="360.2571" y="291.02896" id="svg_1" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve" transform="matrix(1.6804829835891724,0,0,1.6071428060531616,-125.41088736616075,-105.03570544719696) ">while(true) {</text>
+  <text fill="#DE5E60" stroke="#DE5E60" stroke-width="0" x="360.26586" y="322.75617" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve" transform="matrix(1.6804829835891724,0,0,1.6071428060531616,-125.41088736616075,-105.03570544719696) " id="svg_5">hack();</text>
+  <text fill="#DE5E60" stroke="#DE5E60" stroke-width="0" x="274.57621" y="351.37839" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve" transform="matrix(1.6804829835891724,0,0,1.6071428060531616,-125.41088736616075,-105.03570544719696) " id="svg_6">}</text>
+ </g>
+</svg>
