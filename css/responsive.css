@@ -396,8 +396,9 @@
   	only screen and (min-resolution: 2dppx) {
 		
 		header #logo a {
-			background-image: url(../img/logo_@2x.png);
-			background-size: 96px 30px;
+			background-image:url('data:image/svg+xml;utf8,<svg width="173" height="28" xmlns="http://www.w3.org/2000/svg"><g><title>Layer 1</title><text xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_1" y="26" x="86.70313" stroke-width="0" stroke="#DE5E60" fill="#DE5E60">BitwiseHacks</text></g></svg>');
+			background-repeat: no-repeat;
+			background-size: 173px 28px;
 		}
 		
 		.menu-nav {
